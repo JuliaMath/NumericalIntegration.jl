@@ -10,7 +10,7 @@ Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 
 [compat]
 julia = "0.7, 1"
-Interpolations = "≥ 0.14.3"
+Interpolations = "0.14.3, 0.15, 0.16"
 
 [extras]
 HCubature = "19dc6840-f33b-545b-b366-655c7e3ffd49"
